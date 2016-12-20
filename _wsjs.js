@@ -1,4 +1,4 @@
-    $('#favorite').on('click', function(e) {
+/*    $('#favorite').on('click', function(e) {
         var bookmarkURL = window.location.href;
         var bookmarkTitle = document.title;
         var triggerDefault = false;
@@ -26,7 +26,7 @@
     });
 
 
-
+*/
 
         var full = 1024;
         var width = $(window).width();;
