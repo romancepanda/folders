@@ -23,7 +23,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">매스트리즈 이용 로그인</h4>
+        <h4 class="modal-title" id="myModalLabel">매스트리즈 이용222</h4>
       </div>
       <div class="modal-body">
 <form class="form-horizontal"> <div class="form-group"> <label for="inputEmail3" class="col-sm-2 control-label">아이디</label> <div class="col-sm-10"> <input class="form-control" id="inputEmail3" placeholder="Email" type="email"> </div> </div> <div class="form-group"> <label for="inputPassword3" class="col-sm-2 control-label">패스워드</label> <div class="col-sm-10"> <input class="form-control" id="inputPassword3" placeholder="Password" type="password"> </div> </div> <div class="form-group"> <div class="col-sm-offset-2 col-sm-10"> <div class="checkbox"> <label> <input type="checkbox"> 기억하기 </label> </div> </div> </div> <div class="form-group"> </div> </form>      </div>
